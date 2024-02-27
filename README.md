@@ -1,0 +1,1 @@
+Atividade realizada na unidade SENAI JFN sobre manipulação e criação de banco de dados SQL . Foram usadas as linguagens HTML e CSS para criação e estilização da página principal, e PHP para o processamento dos dados e envio para o banco de dados SQL , que foi hospedado no USBwebserver ( ambiente que estamos usando para as práticas ).
